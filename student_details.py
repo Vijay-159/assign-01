@@ -52,8 +52,7 @@ def my_details():
 'branch':'ECE',
 'specialization':'AI and ML',
 'email-id':'vvasamse@@gitam.in',
-'moodle-id':'
-VASAMSETTI VIJAY VARDHAN Vu21eece0100159',
+'moodle-id':'VASAMSETTI VIJAY VARDHAN Vu21eece0100159',
 'github-id':'Vijay-159',
 'replit-id':'@VASAMSETTI-VIJA',
 'semester':'2',
