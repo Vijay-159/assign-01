@@ -46,8 +46,20 @@ Make sure you fill in the right details.
 
 def my_details():
   """Return a dictionary with your details in the format as specified in the above instructions"""
-  pass
-
+  res={
+'name': {'first-name':'Sahil', 'last-name':'Siddarth'},
+'roll-number':'VU21EECE0100159',
+'branch':'ECE',
+'specialization':'AI and ML',
+'email-id':'vvasamse@@gitam.in',
+'moodle-id':'
+VASAMSETTI VIJAY VARDHAN Vu21eece0100159',
+'github-id':'Vijay-159',
+'replit-id':'@VASAMSETTI-VIJA',
+'semester':'2',
+'year':'1'
+}
+  return res
 
 # now call your function
 dt = my_details()
